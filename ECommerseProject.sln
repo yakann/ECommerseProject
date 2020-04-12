@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29519.181
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ECommerseProject.APIUI", "ECommerseProject\ECommerseProject.APIUI.csproj", "{AF69ACAB-BCD6-4E85-98E2-90A0B7FBB846}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ECommerseProject.Core", "ECommerseProject.Core\ECommerseProject.Core.csproj", "{7D5C538B-5B0B-47CA-9980-29D5D3C17592}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ECommerseProject.DB.Entities", "ECommerseProject.DB.Entities\ECommerseProject.DB.Entities.csproj", "{4922AD91-3E6A-4506-BE06-CF9B19C7B0DF}"
@@ -13,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ECommerseProject.DB.DAL", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ECommerseProject.DB.Business", "ECommerseProject.DB.Business\ECommerseProject.DB.Business.csproj", "{6D69FDAE-49AD-47FA-8AEC-90F5D9706ADF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommerseProject.WebUI", "ECommerseProject.WebUI\ECommerseProject.WebUI.csproj", "{D92589D0-8175-4C2E-BA32-96C0115728BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ECommerseProject.WebUI", "ECommerseProject.WebUI\ECommerseProject.WebUI.csproj", "{D92589D0-8175-4C2E-BA32-96C0115728BC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,10 +19,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{AF69ACAB-BCD6-4E85-98E2-90A0B7FBB846}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AF69ACAB-BCD6-4E85-98E2-90A0B7FBB846}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AF69ACAB-BCD6-4E85-98E2-90A0B7FBB846}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AF69ACAB-BCD6-4E85-98E2-90A0B7FBB846}.Release|Any CPU.Build.0 = Release|Any CPU
 		{7D5C538B-5B0B-47CA-9980-29D5D3C17592}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{7D5C538B-5B0B-47CA-9980-29D5D3C17592}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D5C538B-5B0B-47CA-9980-29D5D3C17592}.Release|Any CPU.ActiveCfg = Release|Any CPU
