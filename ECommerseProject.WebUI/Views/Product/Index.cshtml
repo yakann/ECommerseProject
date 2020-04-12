@@ -1,0 +1,31 @@
+﻿@model ECommerseProject.WebUI.Models.ProductListViewModel
+@{
+    Layout = null;
+}
+
+<h1>Index</h1>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <table>
+        <tr>
+            <td>SKU</td>
+            <td>SupPRO</td>
+            <td>ProductName</td>
+            <td>COLOR</td>
+        </tr>
+        @foreach(var product in Model.Products)
+        {
+    <tr>
+        <td>@product.SKU</td>
+        <td>@product.SupplierProductID</td>
+        <td>@product.ProductName</td>
+        <td>@product.AvailableColors</td>
+    </tr>
+        }
+    </table>
+</body>
+</html>

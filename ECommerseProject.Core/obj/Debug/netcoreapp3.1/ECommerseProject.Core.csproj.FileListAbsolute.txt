@@ -1,0 +1,10 @@
+C:\Users\mahmu\source\repos\ECommerseProject\ECommerseProject.Core\bin\Debug\netcoreapp3.1\ECommerseProject.Core.deps.json
+C:\Users\mahmu\source\repos\ECommerseProject\ECommerseProject.Core\bin\Debug\netcoreapp3.1\ECommerseProject.Core.dll
+C:\Users\mahmu\source\repos\ECommerseProject\ECommerseProject.Core\bin\Debug\netcoreapp3.1\ECommerseProject.Core.pdb
+C:\Users\mahmu\source\repos\ECommerseProject\ECommerseProject.Core\obj\Debug\netcoreapp3.1\ECommerseProject.Core.csprojAssemblyReference.cache
+C:\Users\mahmu\source\repos\ECommerseProject\ECommerseProject.Core\obj\Debug\netcoreapp3.1\ECommerseProject.Core.AssemblyInfoInputs.cache
+C:\Users\mahmu\source\repos\ECommerseProject\ECommerseProject.Core\obj\Debug\netcoreapp3.1\ECommerseProject.Core.AssemblyInfo.cs
+C:\Users\mahmu\source\repos\ECommerseProject\ECommerseProject.Core\obj\Debug\netcoreapp3.1\ECommerseProject.Core.dll
+C:\Users\mahmu\source\repos\ECommerseProject\ECommerseProject.Core\obj\Debug\netcoreapp3.1\ECommerseProject.Core.pdb
+C:\Users\mahmu\source\repos\ECommerseProject\ECommerseProject.Core\bin\Debug\netcoreapp3.1\ECommerseProject.Core.runtimeconfig.json
+C:\Users\mahmu\source\repos\ECommerseProject\ECommerseProject.Core\bin\Debug\netcoreapp3.1\ECommerseProject.Core.runtimeconfig.dev.json

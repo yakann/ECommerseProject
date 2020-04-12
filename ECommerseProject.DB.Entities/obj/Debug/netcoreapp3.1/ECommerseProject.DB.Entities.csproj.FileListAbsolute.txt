@@ -1,0 +1,13 @@
+C:\Users\mahmu\source\repos\ECommerseProject\ECommerseProject.DB.Entities\obj\Debug\netcoreapp3.1\ECommerseProject.DB.Entities.csprojAssemblyReference.cache
+C:\Users\mahmu\source\repos\ECommerseProject\ECommerseProject.DB.Entities\obj\Debug\netcoreapp3.1\ECommerseProject.DB.Entities.AssemblyInfoInputs.cache
+C:\Users\mahmu\source\repos\ECommerseProject\ECommerseProject.DB.Entities\obj\Debug\netcoreapp3.1\ECommerseProject.DB.Entities.AssemblyInfo.cs
+C:\Users\mahmu\source\repos\ECommerseProject\ECommerseProject.DB.Entities\bin\Debug\netcoreapp3.1\ECommerseProject.DB.Entities.deps.json
+C:\Users\mahmu\source\repos\ECommerseProject\ECommerseProject.DB.Entities\bin\Debug\netcoreapp3.1\ECommerseProject.DB.Entities.dll
+C:\Users\mahmu\source\repos\ECommerseProject\ECommerseProject.DB.Entities\bin\Debug\netcoreapp3.1\ECommerseProject.DB.Entities.pdb
+C:\Users\mahmu\source\repos\ECommerseProject\ECommerseProject.DB.Entities\bin\Debug\netcoreapp3.1\ECommerseProject.Core.dll
+C:\Users\mahmu\source\repos\ECommerseProject\ECommerseProject.DB.Entities\bin\Debug\netcoreapp3.1\ECommerseProject.Core.pdb
+C:\Users\mahmu\source\repos\ECommerseProject\ECommerseProject.DB.Entities\obj\Debug\netcoreapp3.1\ECommerseProject.DB.Entities.csproj.CopyComplete
+C:\Users\mahmu\source\repos\ECommerseProject\ECommerseProject.DB.Entities\obj\Debug\netcoreapp3.1\ECommerseProject.DB.Entities.dll
+C:\Users\mahmu\source\repos\ECommerseProject\ECommerseProject.DB.Entities\obj\Debug\netcoreapp3.1\ECommerseProject.DB.Entities.pdb
+C:\Users\mahmu\source\repos\ECommerseProject\ECommerseProject.DB.Entities\bin\Debug\netcoreapp3.1\ECommerseProject.DB.Entities.runtimeconfig.json
+C:\Users\mahmu\source\repos\ECommerseProject\ECommerseProject.DB.Entities\bin\Debug\netcoreapp3.1\ECommerseProject.DB.Entities.runtimeconfig.dev.json

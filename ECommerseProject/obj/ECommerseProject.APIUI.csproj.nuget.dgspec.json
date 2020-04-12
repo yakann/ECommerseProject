@@ -1,0 +1,406 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mahmu\\source\\repos\\ECommerseProject\\ECommerseProject\\ECommerseProject.APIUI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mahmu\\source\\repos\\ECommerseProject\\ECommerseProject.Core\\ECommerseProject.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mahmu\\source\\repos\\ECommerseProject\\ECommerseProject.Core\\ECommerseProject.Core.csproj",
+        "projectName": "ECommerseProject.Core",
+        "projectPath": "C:\\Users\\mahmu\\source\\repos\\ECommerseProject\\ECommerseProject.Core\\ECommerseProject.Core.csproj",
+        "packagesPath": "C:\\Users\\mahmu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mahmu\\source\\repos\\ECommerseProject\\ECommerseProject.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mahmu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer.Design": {
+              "target": "Package",
+              "version": "[1.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mahmu\\source\\repos\\ECommerseProject\\ECommerseProject.DB.Business\\ECommerseProject.DB.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mahmu\\source\\repos\\ECommerseProject\\ECommerseProject.DB.Business\\ECommerseProject.DB.Business.csproj",
+        "projectName": "ECommerseProject.DB.Business",
+        "projectPath": "C:\\Users\\mahmu\\source\\repos\\ECommerseProject\\ECommerseProject.DB.Business\\ECommerseProject.DB.Business.csproj",
+        "packagesPath": "C:\\Users\\mahmu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mahmu\\source\\repos\\ECommerseProject\\ECommerseProject.DB.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mahmu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\mahmu\\source\\repos\\ECommerseProject\\ECommerseProject.Core\\ECommerseProject.Core.csproj": {
+                "projectPath": "C:\\Users\\mahmu\\source\\repos\\ECommerseProject\\ECommerseProject.Core\\ECommerseProject.Core.csproj"
+              },
+              "C:\\Users\\mahmu\\source\\repos\\ECommerseProject\\ECommerseProject.DB.DAL\\ECommerseProject.DB.DAL.csproj": {
+                "projectPath": "C:\\Users\\mahmu\\source\\repos\\ECommerseProject\\ECommerseProject.DB.DAL\\ECommerseProject.DB.DAL.csproj"
+              },
+              "C:\\Users\\mahmu\\source\\repos\\ECommerseProject\\ECommerseProject.DB.Entities\\ECommerseProject.DB.Entities.csproj": {
+                "projectPath": "C:\\Users\\mahmu\\source\\repos\\ECommerseProject\\ECommerseProject.DB.Entities\\ECommerseProject.DB.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer.Design": {
+              "target": "Package",
+              "version": "[1.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mahmu\\source\\repos\\ECommerseProject\\ECommerseProject.DB.DAL\\ECommerseProject.DB.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mahmu\\source\\repos\\ECommerseProject\\ECommerseProject.DB.DAL\\ECommerseProject.DB.DAL.csproj",
+        "projectName": "ECommerseProject.DB.DAL",
+        "projectPath": "C:\\Users\\mahmu\\source\\repos\\ECommerseProject\\ECommerseProject.DB.DAL\\ECommerseProject.DB.DAL.csproj",
+        "packagesPath": "C:\\Users\\mahmu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mahmu\\source\\repos\\ECommerseProject\\ECommerseProject.DB.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mahmu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\mahmu\\source\\repos\\ECommerseProject\\ECommerseProject.Core\\ECommerseProject.Core.csproj": {
+                "projectPath": "C:\\Users\\mahmu\\source\\repos\\ECommerseProject\\ECommerseProject.Core\\ECommerseProject.Core.csproj"
+              },
+              "C:\\Users\\mahmu\\source\\repos\\ECommerseProject\\ECommerseProject.DB.Entities\\ECommerseProject.DB.Entities.csproj": {
+                "projectPath": "C:\\Users\\mahmu\\source\\repos\\ECommerseProject\\ECommerseProject.DB.Entities\\ECommerseProject.DB.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer.Design": {
+              "target": "Package",
+              "version": "[1.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mahmu\\source\\repos\\ECommerseProject\\ECommerseProject.DB.Entities\\ECommerseProject.DB.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mahmu\\source\\repos\\ECommerseProject\\ECommerseProject.DB.Entities\\ECommerseProject.DB.Entities.csproj",
+        "projectName": "ECommerseProject.DB.Entities",
+        "projectPath": "C:\\Users\\mahmu\\source\\repos\\ECommerseProject\\ECommerseProject.DB.Entities\\ECommerseProject.DB.Entities.csproj",
+        "packagesPath": "C:\\Users\\mahmu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mahmu\\source\\repos\\ECommerseProject\\ECommerseProject.DB.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mahmu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\mahmu\\source\\repos\\ECommerseProject\\ECommerseProject.Core\\ECommerseProject.Core.csproj": {
+                "projectPath": "C:\\Users\\mahmu\\source\\repos\\ECommerseProject\\ECommerseProject.Core\\ECommerseProject.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer.Design": {
+              "target": "Package",
+              "version": "[1.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mahmu\\source\\repos\\ECommerseProject\\ECommerseProject\\ECommerseProject.APIUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mahmu\\source\\repos\\ECommerseProject\\ECommerseProject\\ECommerseProject.APIUI.csproj",
+        "projectName": "ECommerseProject.APIUI",
+        "projectPath": "C:\\Users\\mahmu\\source\\repos\\ECommerseProject\\ECommerseProject\\ECommerseProject.APIUI.csproj",
+        "packagesPath": "C:\\Users\\mahmu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mahmu\\source\\repos\\ECommerseProject\\ECommerseProject\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mahmu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\mahmu\\source\\repos\\ECommerseProject\\ECommerseProject.Core\\ECommerseProject.Core.csproj": {
+                "projectPath": "C:\\Users\\mahmu\\source\\repos\\ECommerseProject\\ECommerseProject.Core\\ECommerseProject.Core.csproj"
+              },
+              "C:\\Users\\mahmu\\source\\repos\\ECommerseProject\\ECommerseProject.DB.Business\\ECommerseProject.DB.Business.csproj": {
+                "projectPath": "C:\\Users\\mahmu\\source\\repos\\ECommerseProject\\ECommerseProject.DB.Business\\ECommerseProject.DB.Business.csproj"
+              },
+              "C:\\Users\\mahmu\\source\\repos\\ECommerseProject\\ECommerseProject.DB.Entities\\ECommerseProject.DB.Entities.csproj": {
+                "projectPath": "C:\\Users\\mahmu\\source\\repos\\ECommerseProject\\ECommerseProject.DB.Entities\\ECommerseProject.DB.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer.Design": {
+              "target": "Package",
+              "version": "[1.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
