@@ -8729,11 +8729,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mahmu\\source\\repos\\ECommerseProject\\ECommerseProject.WebUI\\ECommerseProject.WebUI.csproj",
+      "projectUniqueName": "C:\\Users\\mahmu\\Documents\\GitHub\\ECommerseProject\\ECommerseProject.WebUI\\ECommerseProject.WebUI.csproj",
       "projectName": "ECommerseProject.WebUI",
-      "projectPath": "C:\\Users\\mahmu\\source\\repos\\ECommerseProject\\ECommerseProject.WebUI\\ECommerseProject.WebUI.csproj",
+      "projectPath": "C:\\Users\\mahmu\\Documents\\GitHub\\ECommerseProject\\ECommerseProject.WebUI\\ECommerseProject.WebUI.csproj",
       "packagesPath": "C:\\Users\\mahmu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mahmu\\source\\repos\\ECommerseProject\\ECommerseProject.WebUI\\obj\\",
+      "outputPath": "C:\\Users\\mahmu\\Documents\\GitHub\\ECommerseProject\\ECommerseProject.WebUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mahmu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8749,14 +8749,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\mahmu\\source\\repos\\ECommerseProject\\ECommerseProject.Core\\ECommerseProject.Core.csproj": {
-              "projectPath": "C:\\Users\\mahmu\\source\\repos\\ECommerseProject\\ECommerseProject.Core\\ECommerseProject.Core.csproj"
+            "C:\\Users\\mahmu\\Documents\\GitHub\\ECommerseProject\\ECommerseProject.Core\\ECommerseProject.Core.csproj": {
+              "projectPath": "C:\\Users\\mahmu\\Documents\\GitHub\\ECommerseProject\\ECommerseProject.Core\\ECommerseProject.Core.csproj"
             },
-            "C:\\Users\\mahmu\\source\\repos\\ECommerseProject\\ECommerseProject.DB.Business\\ECommerseProject.DB.Business.csproj": {
-              "projectPath": "C:\\Users\\mahmu\\source\\repos\\ECommerseProject\\ECommerseProject.DB.Business\\ECommerseProject.DB.Business.csproj"
+            "C:\\Users\\mahmu\\Documents\\GitHub\\ECommerseProject\\ECommerseProject.DB.Business\\ECommerseProject.DB.Business.csproj": {
+              "projectPath": "C:\\Users\\mahmu\\Documents\\GitHub\\ECommerseProject\\ECommerseProject.DB.Business\\ECommerseProject.DB.Business.csproj"
             },
-            "C:\\Users\\mahmu\\source\\repos\\ECommerseProject\\ECommerseProject.DB.Entities\\ECommerseProject.DB.Entities.csproj": {
-              "projectPath": "C:\\Users\\mahmu\\source\\repos\\ECommerseProject\\ECommerseProject.DB.Entities\\ECommerseProject.DB.Entities.csproj"
+            "C:\\Users\\mahmu\\Documents\\GitHub\\ECommerseProject\\ECommerseProject.DB.Entities\\ECommerseProject.DB.Entities.csproj": {
+              "projectPath": "C:\\Users\\mahmu\\Documents\\GitHub\\ECommerseProject\\ECommerseProject.DB.Entities\\ECommerseProject.DB.Entities.csproj"
             }
           }
         }
@@ -8803,7 +8803,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

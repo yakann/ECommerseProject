@@ -6890,11 +6890,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mahmu\\source\\repos\\ECommerseProject\\ECommerseProject.Core\\ECommerseProject.Core.csproj",
+      "projectUniqueName": "C:\\Users\\mahmu\\Documents\\GitHub\\ECommerseProject\\ECommerseProject.Core\\ECommerseProject.Core.csproj",
       "projectName": "ECommerseProject.Core",
-      "projectPath": "C:\\Users\\mahmu\\source\\repos\\ECommerseProject\\ECommerseProject.Core\\ECommerseProject.Core.csproj",
+      "projectPath": "C:\\Users\\mahmu\\Documents\\GitHub\\ECommerseProject\\ECommerseProject.Core\\ECommerseProject.Core.csproj",
       "packagesPath": "C:\\Users\\mahmu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mahmu\\source\\repos\\ECommerseProject\\ECommerseProject.Core\\obj\\",
+      "outputPath": "C:\\Users\\mahmu\\Documents\\GitHub\\ECommerseProject\\ECommerseProject.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mahmu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6955,7 +6955,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
